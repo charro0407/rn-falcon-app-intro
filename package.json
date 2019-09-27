@@ -29,7 +29,7 @@
     "dependencies": {
         "assign-deep": "^0.4.5",
         "prop-types": "^15.5.8",
-        "react-native-swiper": "git+https://git@github.com/ronayumik/react-native-swiper.git"
+        "react-native-swiper": "git+https://github.com/leecade/react-native-swiper.git#v1.6.0-nightly.5"
     },
     "devDependencies": {
         "react-test-renderer": "16.6.3"
